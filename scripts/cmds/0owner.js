@@ -19,7 +19,7 @@ config: {
       name: '𝐌𝐄𝐇𝐄𝐑𝐀𝐙 𝐈𝐒𝐋𝐀𝐌',
       gender: 'Male',
       age: '16+',
-      height: 'Unknown',
+      height: '5.7inc',
       facebookLink: 'https://www.facebook.com/meheraz.muhammads.ummat',
       nick: 'CHISTY'
     };
