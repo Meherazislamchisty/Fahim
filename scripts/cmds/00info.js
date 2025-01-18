@@ -15,17 +15,17 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸ᗷᗩᎩᒍᏆᗞ⩸ ";
-		const ownAge = "『 ⩸__17__⩸ 』";
-		const messenger = "https://m.me/100065506668822";
-		const authorFB = "https://www.facebook.com/profile.php?id=BAYJID.500k";
-		const authorNumber = "_01638007072";
-		const Status = "⩸__🆂🅸🅽🅶🅻🅴__⩸";
+		const authorName = " 𝐌𝐄𝐇𝐄𝐑𝐀𝐙 𝐈𝐒𝐋𝐀𝐌 ";
+		const ownAge = " 16 bosor";
+		const messenger = "𝗡𝗔𝗜";
+		const authorFB = "https://www.facebook.com/meheraz.muhammads.ummat";
+		const authorNumber = "01905723557";
+		const Status = "𝗦𝗜𝗡𝗚𝗟𝗘";
 		const urls = [
-"https://i.imgur.com/I8JSUWI.jpeg",
-"https://i.imgur.com/I8JSUWI.jpeg",
-"https://i.imgur.com/I8JSUWI.jpeg",
-"https://i.imgur.com/I8JSUWI.jpeg"
+"https://i.imgur.com/LUduDzD.jpeg",
+"https://i.imgur.com/LUduDzD.jpeg",
+"https://i.imgur.com/LUduDzD.jpeg",
+"https://i.imgur.com/LUduDzD.jpeg"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
@@ -51,11 +51,11 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 :⩸__${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: https://t.me/MOHAMMADBAYJID
-    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/mr_bayjid120?
-    𝑪𝒂𝒑𝑪𝒖𝒕: copy_bayjid
-    𝑻𝒊𝒌𝑻𝒐𝒌: https://www.tiktok.com/@copy_bayjid?
-    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/@Bayjid Editz?
+    𝑻𝒈: https://t.me/meheraz_islam_chisty
+    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/meheraz.muhammads.ummat
+    𝑪𝒂𝒑𝑪𝒖𝒕: gorip manush nai
+    𝑻𝒊𝒌𝑻𝒐𝒌: 𝗖𝗛𝗔𝗟𝗔𝗬 𝗡𝗔
+    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: 𝗕𝗢𝗥𝗢 𝗛𝗢𝗬𝗟𝗘 𝗞𝗛𝗨𝗟𝗕𝗢
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
