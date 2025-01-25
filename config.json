@@ -35,38 +35,38 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100023789902793"
+    "61568440645205"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100023789902793"
+      "61568440645205"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝑀𝐼𝐶 𝐵𝐵𝑌-🙂",
+  "nickName": "𝗗𝗮𝘂𝗱-𝗕𝗼𝘁🤖",
   "prefix": "#",
   "BaYjidapi": "https://bayjid-hd.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "MeHeRaZ IsLaM🐸",
-  "facebook2": "https://www.facebook.com/meheraz.muhammads.ummat",
-  "facebook": "https://www.facebook.com/meheraz.muhammads.ummat",
+  "authorName": "Daud kim",
+  "facebook2": "https://www.facebook.com/psycho.daud",
+  "facebook": "https://www.facebook.com/psycho.daud",
   "email": "meherazchisty57@gmail.com",
   "replit": "https://replit.com/@BAYJID-XD",
   "github": "https://github.com/BAYJID404",
-  "insta": "meheraz.muhammads.ummat",
-  "age": "16+",
-  "TG": "t.me/meheraz_islam_chisty",
+  "insta": "https://www.facebook.com/psycho.daud",
+  "age": "17+",
+  "TG": "https://www.facebook.com/psycho.daud",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
-    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when youf set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
+    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when youf set autoRefreshThreadInfoFirstTime to true, the bot wDhakatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Chattogram",
+  "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
       "email": "",
@@ -77,7 +77,7 @@
     },
     "gRecaptcha": {
       "siteKey": "6LeYA1gpAAAAALcbHRIVGcL69QwgbXIbBZpvlJ3q",
-      "secretKey": "6LeYA1gpAAAAAI13alckf64lV0MfuEQf3EObX4ye"
+      "secretKDhakaA1gpAAAAAI13alckf64lV0MfuEQf3EObX4ye"
     }
   },
   "dashBoard": {
